@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Homework\\Python-challenge"
+		},
+		{
+			"path": "..\\..\\..\\..\\01-Lesson-Plans\\03-Python"
+		}
+	],
+	"settings": {
+		"zenMode.fullScreen": false,
+		"zenMode.restore": false,
+		"zenMode.hideTabs": false,
+		"zenMode.hideLineNumbers": false,
+		"zenMode.hideStatusBar": false,
+		"zenMode.hideActivityBar": false,
+		"zenMode.silentNotifications": false,
+		"zenMode.centerLayout": false,
+		"workbench.preferredDarkColorTheme": "Synthwave x Fluoromachine",
+		"workbench.preferredLightColorTheme": "Synthwave x Fluoromachine"
+	}
+}
